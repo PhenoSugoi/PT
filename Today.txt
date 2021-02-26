@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> <b> <p align="center"> CLIMATE CHANGE </b> </p></title>
+</head>
+<body>
+
+<p>Global warming is likely to be the greatest cause of species extinctions this century. The IPCC says a 1.5°C average rise may put 20-30% of species at risk of extinction. If the planet warms by more than 2°C, most ecosystems will struggle.
+Many of the world’s threatened species live in areas that will be severely affected by climate change. And climate change is happening too quickly for many species to adapt.
+<br>
+Climate change is amplified in the polar regions. The earth’s north and south extremities are crucial for regulating our planet’s climate and are particularly vulnerable to the impacts of global warming, which has global consequences.
+<br>
+<b> <u> CLIMATE CHANGE AND OCEANS </b> </u>
+Oceans are vital ‘carbon sinks’, meaning that they absorb huge amounts of carbon dioxide, preventing it from reaching the upper atmosphere. Increased water temperatures and higher carbon dioxide concentrations than normal, which make oceans more acidic, are already having an impact on oceans.
+Oceans are already experiencing large-scale changes at a warming of 1°C, with critical thresholds expected to be reached at 1.5°C and above.
+Coral reefs are projected to decline by a further 70-90% at 1.5°C. At a warming of 2°C virtually all coral reefs will be lost. It’s not only a tragedy for wildlife: around half a billion people rely on fish from coral reefs as their main source of protein. 
+<br>
+<b> <u> CLIMATE CHANGE AND FORESTS </b> </u>
+Forests are vitally important as they soak up carbon dioxide, the main greenhouse gas responsible for global warming, and help regulate the world’s climate. They’re also home to countless plant and animal species. We’re working with communities, local governments and businesses to ensure the world’s forests are protected.      
+<br>
+<b> <u> CLIMATE CHANGE AND FRESHWATER </b> </u>
+Climate change is having serious impacts on the world’s water systems through more flooding and droughts. Warmer air can hold a higher water content, which makes rainfall patterns more extreme.
+Rivers and lakes supply drinking water for people and animals and are a vital resource for farming and industry. Freshwater environments around the world are already under excessive pressure from drainage, dredging, damming, pollution, extraction, silting and invasive species. Climate change only exacerbates the problem and makes this worse. Extremes of drought and flooding will become more common, causing displacement and conflict.
+In mountainous regions, melting glaciers are impacting on freshwater ecosystems. Himalayan glaciers feed great Asian rivers such as the Yangtze, Yellow, Ganges, Mekong and Indus. Over a billion people rely on these glaciers for drinking water, sanitation, agriculture and hydroelectric power.
+<br> 
+<font color=”blue”> <u> source:https://www.wwf.org.uk/learn/effects-of/climate-change </u> </font>
+</br>
+
+</body>
+</html>
