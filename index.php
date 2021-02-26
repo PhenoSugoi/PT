@@ -3,7 +3,7 @@
 <title>Performance task</title>
 </head>
 <FRAMESET COLS="*, *">
-                <FRAME SRC="Today.html">
+                <FRAME SRC="today.html">
                 <FRAME SRC="Tomorrow.html">
             </FRAMESET>
 
